@@ -24,5 +24,5 @@ The progress of project is as follows:
 
 <br>
 
-<img src = "https://github.com/arunm8489/IEE-CIS-Fraud-detection/blob/main/images/result.png">
+<img src = "images/result.png">
 
